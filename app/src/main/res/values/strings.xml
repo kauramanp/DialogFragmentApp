@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DialogFragmentApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="enter_the_value_to_pass_to_previous_fragment">Enter the value to pass to the previous fragment</string>
+    <string name="pass_to_previous_fragment">Pass to previous fragment</string>
 </resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PopUpFragment"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/dp_50">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:id="@+id/tvText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="@string/enter_the_value_to_pass_to_previous_fragment" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnPassToPrevious"
+        android:text="@string/pass_to_previous_fragment" />
+</LinearLayout>
+
+</layout>
