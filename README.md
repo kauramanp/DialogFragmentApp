@@ -1,7 +1,7 @@
-# DialogFragmentApp
+# Dialog Fragment Application
  
 # Overview
-FirstFragment is an Android fragment that demonstrates:
+Android app that demonstrates:
 
 Navigation between fragments using Jetpack Navigation Component.<br>
 Passing data between fragments using setFragmentResultListener.<br>
